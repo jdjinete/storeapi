@@ -1,0 +1,74 @@
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.exe
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.deps.json
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.runtimeconfig.json
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.runtimeconfig.dev.json
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.pdb
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.csprojAssemblyReference.cache
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\staticwebassets\StoreApi.StaticWebAssets.Manifest.cache
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\staticwebassets\StoreApi.StaticWebAssets.xml
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.AssemblyInfoInputs.cache
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.AssemblyInfo.cs
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.RazorTargetAssemblyInfo.cache
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.csproj.CopyComplete
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.dll
+D:\Repo Capacitacion DotNET Core\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.pdb
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.exe
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.deps.json
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.runtimeconfig.json
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.runtimeconfig.dev.json
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\StoreApi.pdb
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.csprojAssemblyReference.cache
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\staticwebassets\StoreApi.StaticWebAssets.Manifest.cache
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\staticwebassets\StoreApi.StaticWebAssets.xml
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.AssemblyInfoInputs.cache
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.AssemblyInfo.cs
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.RazorTargetAssemblyInfo.cache
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.csproj.CopyComplete
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.dll
+D:\RepoCapacitacionDotNETCore\StoreApi\obj\Debug\netcoreapp3.1\StoreApi.pdb
